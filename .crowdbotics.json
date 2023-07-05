@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.2.0",
+    "cookiecutter_context": {
+      "project_name": "Sparkling Leaf",
+      "project_slug": "sparkling_leaf_dev_97601",
+      "project_dash_slug": "sparkling-leaf-dev-97601",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "TST-mbhvfowjim@aol.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
